@@ -1,4 +1,4 @@
-# razorpay_clone
+# RAZORPAY LANDING PAGE 
 A Fully Responsive Razorpay Landing page using TailwindCSS 
 
 ![image](https://user-images.githubusercontent.com/73595460/230077114-cfb39804-6771-464c-be55-19f8f4400bdf.png)
